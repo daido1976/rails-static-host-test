@@ -1,13 +1,13 @@
 # class StaticPagesController < ApplicationController
   # def index
-  #   render 'public/index.html'
+  #   render file: 'public/index.html'
   # end
 
   # def about
-  #   render 'public/about.html'
+  #   render file: 'public/about.html'
   # end
 
   # def contact
-  #   render 'public/contact.html'
+  #   render file: 'public/contact.html'
   # end
 # end
